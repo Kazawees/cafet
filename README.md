@@ -7,6 +7,8 @@ l'affichage sur la page d'accueil n'est pas dynamique.
 les identifiants de la base de donnée:
   'root' ''
   
+  le fichier sql est à inserer dans une BDD MYSQL.
+  
   
   
   
